@@ -6,7 +6,7 @@ A simple “radar” scanner:
 - The Pi **broadcasts UDP** packets on your LAN  
 - **Windows PC** runs a **pygame GUI** to display the sweep + blips  
 
-<img src="Radar%20GUI.png" alt="GUI" width="450">
+<img src="Radar%20GUI.png" alt="GUI" width="600">
 ---
 
 ## Files
