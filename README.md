@@ -18,6 +18,8 @@ A simple “radar” scanner:
 
 ## Wiring (BCM)
 
+![Pin Layout](Pin%20Layout.png)
+
 | Part | Signal | Pi GPIO |
 |---|---|---|
 | Servo | PWM | **GPIO18** |
