@@ -7,7 +7,7 @@ A simple “radar” scanner:
 - **Windows PC** runs a **pygame GUI** to display the sweep + blips  
 
 <img src="Radar%20GUI.png" alt="GUI" width="600">
-<img src="Mini%20Radar.png" alt="GUI" width="600">
+<img src="Mini%20Radar.JPG" alt="Setup" width="600">
 ---
 
 ## Files
